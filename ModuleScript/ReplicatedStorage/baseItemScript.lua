@@ -1,4 +1,5 @@
-local stats = require(game:GetService("ReplicatedStorage"):WaitForChild("Data"))
+local data = require(game:GetService("ReplicatedStorage"):WaitForChild("Data"))
+local stats = {}
 
 --basic
 stats.basic = {}
