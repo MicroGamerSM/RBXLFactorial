@@ -30,9 +30,10 @@ stats.liquid.RecipeId = "00000000-0000-0000-0000-000000000000-r0"
 --block
 stats.block = {}
 stats.block.isBlock = true
-stats.canRotateX = false
-stats.canRotateY = false
-stats.canRotateZ = false
+stats.block.canRotateX = false
+stats.block.canRotateY = false
+stats.block.canRotateZ = false
+stats.block.solid = true
 --texture
 stats.texture = {}
 stats.texture.xPositive = "00000000-0000-0000-0000-000000000000-t0"
