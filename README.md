@@ -6,4 +6,6 @@ Github repository for my game, Factorial
 Fixed baseItemCode.lua having it's own version of data.lua
 Added data.lua ModuleScript
 #Patch V0.00.3
-fixed baseItemCode.lua not existing.
+Fixed baseItemCode.lua not existing.
+Fixed some block properties not being in any catagory
+Added "solid" properties
